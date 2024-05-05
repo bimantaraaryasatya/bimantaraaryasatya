@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/bimantara-aryasatya-800239231/" target="_blank" rel="noreferrer">![Web Developer](https://media.licdn.com/dms/image/D5622AQFh6auS_sFd8Q/feedshare-shrink_2048_1536/0/1711868088127?e=1714608000&v=beta&t=AmRKM4Zwr8rVf8iMaX3jdbTMbK-H8OqTIwPYJLH2G_Y)</a>
+<a href="https://www.linkedin.com/in/bimantara-aryasatya-800239231/" target="_blank" rel="noreferrer">![Web Developer](https://media.licdn.com/dms/image/D5616AQHhIkhE8rNLvg/profile-displaybackgroundimage-shrink_350_1400/0/1714916438054?e=1720656000&v=beta&t=_jmGGjru0j96Sf_uQ5kPhRIA0VbX32KirlbQ2Mndr-A)</a>
 
 ## Hi there 👋, I'm Bimantara Aryasatya
 
