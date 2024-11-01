@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/bimantara-aryasatya-800239231/" target="_blank" rel="noreferrer">![Web Developer]([https://media.licdn.com/dms/image/D5616AQHhIkhE8rNLvg/profile-displaybackgroundimage-shrink_350_1400/0/1714916438054?e=1728518400&v=beta&t=39PGff3Lc0hB_DwrcquML2SMYWWaZkySmNRwR4uB2Wk](https://media.licdn.com/dms/image/v2/D5616AQHhIkhE8rNLvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714916438054?e=1735776000&v=beta&t=NIzuUOZleHVBy8fj-8E_fpf7Gk2g5qsbWBNzQrm00n0))</a>
+<a href="https://www.linkedin.com/in/bimantara-aryasatya-800239231/" target="_blank" rel="noreferrer">![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHhIkhE8rNLvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714916438054?e=1735776000&v=beta&t=NIzuUOZleHVBy8fj-8E_fpf7Gk2g5qsbWBNzQrm00n0)</a>
 
 ## Hi there 👋, I'm Bimantara Aryasatya
 
