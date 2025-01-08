@@ -1,5 +1,3 @@
-<a href="https://www.linkedin.com/in/bimantara-aryasatya-800239231/" target="_blank" rel="noreferrer">![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHhIkhE8rNLvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714916438054?e=1735776000&v=beta&t=NIzuUOZleHVBy8fj-8E_fpf7Gk2g5qsbWBNzQrm00n0)</a>
-
 ## Hi there 👋, I'm Bimantara Aryasatya
 
 My name is Bimantara Aryasatya and I'am currently studying at SMK Telkom Malang. I'm a 11th grade software engineering student. I'm interested in this field, especially web development.
