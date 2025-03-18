@@ -24,10 +24,10 @@ My name is Bimantara Aryasatya and I'am currently studying at SMK Telkom Malang.
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/bimantara-aryasatya-800239231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bimantara-aryasatya-800239231" height="30" width="40" /></a>
-<a href="https://instagram.com/bimantara_aryasatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimantara_aryasatya" height="30" width="40" /></a>
-<a href="https://www.youtube.com//@zukitaka5770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zukitaka5770" height="30" width="40" /></a>
-<a href="https://github.com/bimantaraaryasatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zukitaka5770" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bimantara-aryasatya-800239231" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bimantara-aryasatya-800239231" height="30" width="40" /></a>
+<a href="https://instagram.com/bimantara_aryasatya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimantara_aryasatya" height="30" width="40" /></a>
+<a href="https://www.youtube.com//@zukitaka5770" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zukitaka5770" height="30" width="40" /></a>
+<a href="https://github.com/bimantaraaryasatya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zukitaka5770" height="30" width="40" /></a>
 </p> 
 
 ---
