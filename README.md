@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Bimantara Aryasatya
 
-My name is Bimantara Aryasatya and I'am currently studying at SMK Telkom Malang. I'm a 11th grade software engineering student. I'm interested in this field, especially web development.
+My name is Bimantara Aryasatya and I'am currently studying at SMK Telkom Malang. I'm a 12th grade software engineering student. I'm interested in this field, especially web development.
   
 ---
 
