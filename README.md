@@ -29,12 +29,3 @@ My name is Bimantara Aryasatya and I'am currently studying at SMK Telkom Malang.
 <a href="https://www.youtube.com//@zukitaka5770" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zukitaka5770" height="30" width="40" /></a>
 <a href="https://github.com/bimantaraaryasatya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zukitaka5770" height="30" width="40" /></a>
 </p> 
-
----
-### Statistics:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimantaraaryasatya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimantaraaryasatya&hide_progress=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimantaraaryasatya&langs_count=8&theme=tokyonight)
